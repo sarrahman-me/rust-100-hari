@@ -1,46 +1,43 @@
-<h1 align="center">100 Days of Rust 🦀 </h1>
+<h1 align="center">100 Hari Rust 🦀 Coding </h1>
 <p align="center">
 <img width="" src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e4796b9znwjl0zqxljtzh2xe4yer17y5oojmj5kztep&rid=giphy.gif&ct=g" align="center" alt="gif" />
 </p>
 
-# Introduction
-Welcome to the 100 Days of Rust Coding Challenge! This challenge is designed to help you learn and improve your Rust programming skills over the course of 100 days.
+# Perkenalan
+Selamat datang di Tantangan 100 Hari Rust Coding! Tantangan ini dirancang untuk membantu Anda mempelajari dan meningkatkan keterampilan pemrograman Rust Anda selama 100 hari.
 
-Each day, you will tackle a new Rust programming concept, project, or problem. You will learn about ownership and borrowing, concurrency and parallelism, the Rust standard library, web development with Rust, game development with Rust, machine learning in Rust, system programming in Rust, cryptography in Rust, and blockchain development in Rust.
+Setiap hari, Anda akan menangani konsep, proyek, atau masalah pemrograman Rust yang baru. Anda akan belajar tentang ownership dan borrowing, concurrency and parallelism, library standar Rust, pengembangan web dengan Rust, pengembangan game dengan Rust, pembelajaran mesin di Rust, pemrograman sistem di Rust, kriptografi di Rust, dan pengembangan blockchain di Rust.
 
-This challenge is suitable for Rust beginners and intermediate learners who want to improve their skills and build practical projects. It is also a great opportunity to connect with other Rust learners and share knowledge and experiences.
+Tantangan ini cocok untuk pelajar pemula dan menengah Rust yang ingin meningkatkan keterampilan mereka dan membangun proyek praktis. Ini juga merupakan kesempatan bagus untuk terhubung dengan pembelajar Rust lainnya dan berbagi pengetahuan dan pengalaman.
 
-We hope you find this challenge fun and rewarding, and we can't wait to see what you build with Rust!
+Kami harap tantangan ini menyenangkan dan bermanfaat bagi Anda, dan kami tidak sabar untuk melihat apa yang Anda bangun dengan Rust!
 
-# How to Participate
-Fork this repository and create a new branch to track your progress.
-Commit to coding and learning Rust for at least an hour every day for 100 days.
-Share your progress on social media with the hashtag #100DaysOfRustCodingChallenge and tag @LiveGray on Twitter.
-We encourage you to share your progress and ask questions in the Discussions section of this repository.
+# Cara Berpartisipasi
+Fork repositori ini dan buat branch baru untuk melacak kemajuan Anda.
+Berkomitmen untuk coding dan mempelajari Rust setidaknya satu jam setiap hari selama 100 hari.
+Kami mendorong Anda untuk membagikan kemajuan Anda dan mengajukan pertanyaan di bagian Diskusi di repositori ini.
 
-# Rules
-- The main rule is: Code at least an hour every day (don't skip weekends/holidays)
+# Aturan
+- Aturan utamanya adalah: Kode minimal satu jam setiap hari (jangan lewatkan akhir pekan/hari libur)
 
-- Choose an area of Rust you wan't to learn or improve
+- Pilih area Rust yang tidak ingin Anda pelajari atau tingkatkan
 
-- Share your progress daily in your social medias
+- Bagikan kemajuan Anda setiap hari di media sosial Anda
 
-- Try not to copy code from the internet
+- Usahakan untuk tidak menyalin kode dari internet
 
-- Try to come up with a clean and elegant solution
+- Cobalah untuk memberikan solusi yang bersih dan elegan
  
-- Once you can, write tests (and make them pass)
+- Jika Anda bisa, tulis tes (dan lulus)
 
-# Resources
-[The Rust Programming Language Book](https://doc.rust-lang.org/book/title-page.html)
+# Sumber daya
+[Buku Bahasa Pemrograman Rust](https://doc.rust-lang.org/book/title-page.html)
 
-[The Rust Standard Library Documentation](https://doc.rust-lang.org/std/index.html)
+[Dokumentasi Resmi Standar Rust](https://doc.rust-lang.org/std/index.html)
 
-[Rust By Example](https://doc.rust-lang.org/stable/rust-by-example/)
+[Contoh Kode Rust](https://doc.rust-lang.org/stable/rust-by-example/)
 
-[Rust Cookbook](https://rust-lang-nursery.github.io/rust-cookbook/)
-
-[Awesome Rust](https://github.com/rust-unofficial/awesome-rust)
+Terima kasih kepada [LiveGray](https://github.com/LiveGray) yang telah membuat tantangan ini.
 
 
 # Project List

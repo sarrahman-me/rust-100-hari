@@ -1,0 +1,6 @@
+[package]
+name = "Day-01_Convert-Ages-To-Days"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
